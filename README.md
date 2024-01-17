@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviknce0509" alt="raviknce0509" /></a> </p>
 
-- 🔭 I’m currently working on **Improving cloud-based solutions, Advanced Predictive Modeling, Developing Quantitative Models**
+- 🔭 I’m currently working on **Improving cloud-based solutions, Advanced Predictive Modeling, and Developing Quantitative Models**
 
 - 🌱 I’m currently learning **Advanced AWS Services and GraphQL.**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **python,AI & ML, SQL,**
+- 💬 Ask me about **python,AI & ML, SQL,and R**
 
-- 📫 How to reach me **ravik.nce0509@gmail.com**
+- 📫 How to reach me **rnalaw2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
