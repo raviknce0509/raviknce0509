@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Improving cloud-based solutions, Advanced Predictive Modeling, and Developing Quantitative Models**
 
-- 🌱 I’m currently learning **Advanced AWS Services and GraphQL.**
+- 🌱 I’m currently learning **Advannced Cloud Services.**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Computer Vision and Image Recognition, Anomaly Detection and Reinforcement Learning**
 
 - 💬 Ask me about **python,AI & ML, SQL,and R**
 
