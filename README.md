@@ -8,7 +8,7 @@
 <a href="mailto:rnalaw2@gmail.com"><img src="https://github.com/raviknce0509/raviknce0509/blob/main/logos/google-plus.png" width="40" /></a>
 
 
-<h3>What I do? 👨‍💻</h3>
+<h3>What do I do? 👨‍💻</h3>
 <details>
 <summary>Data Scientist 📊</summary>
 <ul>
@@ -22,7 +22,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-I am a Data Scientist working on multiple data science projects for Corporate accounts. During my free time,I expand my knowledge by learning new Machine Learning algorithms and tools.
+I am a Data Scientist working on multiple data science projects for Corporate accounts. During my free time, I expand my knowledge by learning new Machine Learning algorithms and tools.
 
 
 Microsoft Certified: Azure Data Scientist Associate, AWS Certified Cloud Practitioner, AWS Solution Architect Associate (Pursuing)
@@ -34,7 +34,7 @@ A quote that inspired me recently is, "The people who are crazy enough to think 
 </details>
 
 <details>
-<summary>What do you do other than building AI systems? 💁‍♂️</summary>
+<summary>What do you do other than build AI systems? 💁‍♂️</summary>
   <ul>
     <li>I write blogs about personal learning and experiences. You can visit my blog site at <a href="https://raviknce0509.github.io/blogs">raviknce0509.github.io/blogs</a>.</li>
   </ul>
@@ -51,8 +51,8 @@ A quote that inspired me recently is, "The people who are crazy enough to think 
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/languages.svg)
 
 
 </a>
