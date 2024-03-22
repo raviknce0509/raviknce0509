@@ -4,7 +4,7 @@
 <img align='right' src="https://github.com/raviknce0509/raviknce0509/blob/main/my_image.jpg" width="230" />
 
 <a href="www.linkedin.com/in/ravikumarn3015"><img src="https://github.com/raviknce0509/raviknce0509/blob/main/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/raviknce0509"><img src="https://github.com/raviknce0509/raviknce0509/blob/main/logos/github.png" width="40" /></a>
+<a href="https://github.com/raviknce0509"><img src="logos/github-logo.png" width="40" /></a>
 <a href="mailto:rnalaw2@gmail.com"><img src="https://github.com/raviknce0509/raviknce0509/blob/main/logos/google-plus.png" width="40" /></a>
 
 
