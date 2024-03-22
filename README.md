@@ -51,8 +51,9 @@ A quote that inspired me recently is, "The people who are crazy enough to think 
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](generated/languages.svg)
-![](generated/overview.svg)
+![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/raviknce0509/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 </a>
 <!---[![Raviknce0509's Github Stats](https://github-readme-stats.vercel.app/api?username=raviknce0509&show_icons=true&count_private=true)](https://github.com/raviknce0509/github-readme-stats)-->
