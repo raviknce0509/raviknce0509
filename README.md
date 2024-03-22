@@ -36,7 +36,7 @@ A quote that inspired me recently is, "The people who are crazy enough to think 
 <details>
 <summary>What do you do other than building AI systems? 💁‍♂️</summary>
   <ul>
-    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://raviknce0509.github.io/blogs">raviknce0509.github.io/blogs</a>.</li>
+    <li>I write blogs about personal learning and experiences. You can visit my blog site at <a href="https://raviknce0509.github.io/blogs">raviknce0509.github.io/blogs</a>.</li>
   </ul>
 </details>
 
@@ -55,4 +55,4 @@ A quote that inspired me recently is, "The people who are crazy enough to think 
 ![](generated/overview.svg)
 
 </a>
-[![Raviknce0509's Github Stats](https://github-readme-stats.vercel.app/api?username=raviknce0509&show_icons=true&count_private=true)](https://github.com/raviknce0509/github-readme-stats)
+<!---[![Raviknce0509's Github Stats](https://github-readme-stats.vercel.app/api?username=raviknce0509&show_icons=true&count_private=true)](https://github.com/raviknce0509/github-readme-stats)-->
