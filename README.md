@@ -1,4 +1,4 @@
-<img src="https://github.com/raviknce0509/raviknce0509/blob/main/linkedin_banner.png" /> 
+<img src="https://github.com/raviknce0509/raviknce0509/blob/main/linkedin_banner_edited.png" /> 
 
 <h1>Hi Traveller, I am <a href="https://raviknce0509.github.io/">Ravikumar Nalawade</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://github.com/raviknce0509/raviknce0509/blob/main/my_image.jpg" width="230" />
