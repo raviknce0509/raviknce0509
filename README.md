@@ -1,7 +1,7 @@
 <img src="https://github.com/raviknce0509/raviknce0509/blob/main/linkedin_banner.png" /> 
 
 <h1>Hi Traveller, I am <a href="https://raviknce0509.github.io/">Ravikumar Nalawade</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<img align='right' src="https://github.com/raviknce0509/raviknce0509/blob/main/my_image.jpg" width="230" />
+<img align='right' src="https://github.com/raviknce0509/raviknce0509/blob/main/my_image.heic" width="230" />
 
 <a href="https://www.linkedin.com/in/ravikumarn3015/"><img src="https://github.com/raviknce0509/raviknce0509/blob/main/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/raviknce0509"><img src="logos/github-logo.png" width="40" /></a>
