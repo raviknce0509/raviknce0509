@@ -22,12 +22,20 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-I am a Data Scientist working on multiple data science projects for Corporate accounts. During my free time, I expand my knowledge by learning new Machine Learning algorithms and tools.
+Passionate Data Scientist | Transforming Customer Interactions | Marketing Technology Expert
+
+As an experienced Data Scientist specializing in marketing technology and analytics, I am dedicated to revolutionizing 
+customer interactions through advanced data-driven solutions. With a proven track record of success, I excel in building 
+scalable data science solutions using customer and marketing data to drive business growth and optimize the customer journey.
+I expand my knowledge during my free time by learning new Machine Learning algorithms and tools.
 
 
-Microsoft Certified: Azure Data Scientist Associate, AWS Certified Cloud Practitioner, AWS Solution Architect Associate (Pursuing)
+Microsoft Certified: Azure Data Scientist Associate, AWS Certified Cloud Practitioner, AWS Solution Architect Associate.
 
-Proficient in Python, SQL, R, AWS, Power BI, Hadoop, Spark, Git, VBA, and Excel.
+Proficient in Python, SQL, R, AWS, Power BI, Hadoop, Spark, Git, VBA, and Excel. 
+
+2+ years of Experience with Machine Learning platforms (AWS Sagemaker, Databricks), Data Pipelines (Spark, Airflow), 
+CI/CD, GitHub, and visualization (Power BI/Tableau).
 
 A quote that inspired me recently is, "The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs
   </pre>
