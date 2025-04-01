@@ -8,7 +8,7 @@
 
 ---
 
-I am a Cloud enthusiast with experties in DevOps and Machine Learning, Author of Cloud With Ravi, AWS Community Builder. Passionate about helping people get into cloud and sharing my learnings in cloud, ML & AI, and now DevOps. 
+Thank you for visiting.
 
 ---
 
