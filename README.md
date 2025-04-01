@@ -23,8 +23,7 @@ Thank you for visiting.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Web Server on the Linux Virtual Machine](https://cloudwithravi.com/blog/2024/05/15/deploying-a-web-server-on-the-linux-virtual-machine/)
-- [Create a Windows Virtual Machine in the Azure Portal](https://cloudwithravi.com/blog/2024/05/10/create-a-windows-virtual-machine-in-the-azure-portal/)
+- [Understanding Container Orchestration]([https://cloudwithravi.com/blog/2024/05/15/deploying-a-web-server-on-the-linux-virtual-machine/](https://cloudwithravi.com/blog/container-orchestration/))
 
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://cloudwithravi.com/blog/)
