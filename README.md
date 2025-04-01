@@ -2,13 +2,9 @@
 <br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumarn3015/)
-
-
 
 ---
-
-Thank you for visiting.
+Business Analyst transitioning into DevOps and Cloud Engineering. Skilled in translating business needs into scalable, automated cloud solutions using AWS, Terraform, Docker, and machine learning. Passionate about innovation, security, and continuous learning.
 
 ---
 
