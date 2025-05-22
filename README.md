@@ -1,27 +1,6 @@
 ### Hi there I am [Ravikumar](https://cloudwithravi.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-
-
----
-Business Analyst transitioning into DevOps and Cloud Engineering. Skilled in translating business needs into scalable, automated cloud solutions using AWS, Terraform, Docker, and machine learning. Passionate about innovation, security, and continuous learning.
-
----
-
-### Languages and tools ⚙️
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p>
- <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go Lang Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
-
-</p>
-
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Container Orchestration]([https://cloudwithravi.com/blog/2024/05/15/deploying-a-web-server-on-the-linux-virtual-machine/](https://cloudwithravi.com/blog/container-orchestration/))
-- 
-
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://cloudwithravi.com/blog/)
 
