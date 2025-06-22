@@ -25,15 +25,6 @@ I am a **Business Analyst**, now focusing on DevOps and Cloud Engineering techno
 
 
 
-<details>
-
-
-
----
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
