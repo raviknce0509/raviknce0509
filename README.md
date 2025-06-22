@@ -10,11 +10,12 @@ I am a **Business Analyst**, now focusing on DevOps and Cloud Engineering techno
 
 - **Microsoft Certified**: Azure Data Scientist Associate
 - **AWS Certified**: Cloud Practitioner
-- **AWS Solution Architect Associate** (Pursuing)
+- **AWS Certified**: Solution Architect Associate
+- **AWS Machine Learning Associate** (Pursuing)
 
 ### 💻 Technical Skills
 
-**Programming Languages**: Python, SQL, R  
+**Programming Languages**: Python, SQL, R , Shell, Go
 **Cloud & Tools**: AWS, Azure, Power BI, Hadoop, Spark, Git, VBA, Excel  
 **DevOps**: Docker, Kubernetes, CI/CD, Infrastructure as Code
 
