@@ -30,22 +30,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviknce0509&show_icons=true&theme=radical&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=raviknce0509&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ffa500"
     alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviknce0509&layout=compact&theme=radical&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviknce0509&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff"
     alt="Top Languages" />
 </div>
 
-
 <div align="center">
 
-[![](https://raw.githubusercontent.com/raviknce0509/raviknce0509/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/raviknce0509/raviknce0509/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/raviknce0509/raviknce0509/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/raviknce0509/raviknce0509/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/raviknce0509/raviknce0509/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raviknce0509&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-
+  <!-- GitHub Streak Stats -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=raviknce0509&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=ffa500&fire=ffa500&currStreakNum=00ff00&sideNums=00ff00&sideLabels=ffa500&currStreakLabel=ffa500)](https://git.io/streak-stats)
+  
+  <!-- Additional Streak Stats with custom styling -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=raviknce0509&currStreakNum=00ff00&fire=ffa500&sideLabels=ffa500&theme=dark&background=0d1117&stroke=00ff00&ring=ffa500)](https://git.io/streak-stats)
 </div>
 
 ---
