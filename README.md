@@ -41,8 +41,6 @@
   <!-- GitHub Streak Stats -->
   [![GitHub Streak](https://streak-stats.demolab.com/?user=raviknce0509&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=ffa500&fire=ffa500&currStreakNum=00ff00&sideNums=00ff00&sideLabels=ffa500&currStreakLabel=ffa500)](https://git.io/streak-stats)
   
-  <!-- Additional Streak Stats with custom styling -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=raviknce0509&currStreakNum=00ff00&fire=ffa500&sideLabels=ffa500&theme=dark&background=0d1117&stroke=00ff00&ring=ffa500)](https://git.io/streak-stats)
 </div>
 
 ---
